@@ -1,0 +1,13 @@
+name: qMOTD
+version: 1.-F
+author: Andresq
+main: q.andres.qMOTD.Main
+description: CustomMotdTimer Plugin
+api-version: 1.16
+website: https://github.com/AndresqDev/qMOTD
+depend: [BungeeCord]
+commands:
+  timerstart:
+    description: timerstart
+    aliases: [tm]
+    usage: /timerstart <placeholder> <time>
