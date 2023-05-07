@@ -4,7 +4,7 @@
 
 ## Un plugin simple y mas optmizado que el llamado plugin motdcoutdown
 
- - [MotdCoutdown Spigot](https://www.spigotmc.org/resources/motdcountdown.23249/)
+ - [Original MotdCoutdown Spigot](https://www.spigotmc.org/resources/motdcountdown.23249/)
  - [Mi Discord server](https://discord.gg/jr4A3y3nzq)
  - [Mi pagina de github](https://github.com/AndresqDev)
 
